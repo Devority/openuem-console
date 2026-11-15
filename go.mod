@@ -133,3 +133,5 @@ require (
 	google.golang.org/protobuf v1.36.8 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/open-uem/utils => github.com/Devority/utils v0.0.0-20261115205042-cd9d459259dc
